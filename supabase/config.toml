@@ -1,0 +1,4 @@
+project_id = "rovnlbklmzsvzewibsfz"
+
+[functions.google-sheets]
+verify_jwt = false
